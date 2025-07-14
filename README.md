@@ -72,7 +72,7 @@ label = "Positive 😊" if prediction >= 0.5 else "Negative 😞"
 - Add feedback loop and mobile-friendly UI
 
 ## 📚 References
-
+- [Deployment link](https://mlproject-nbgnurxizkggbspz2hnd5p.streamlit.app/)
 - [VADER: Hutto & Gilbert, 2014](https://ojs.aaai.org/index.php/ICWSM/article/view/14550)
 - [RoBERTa: Liu et al., 2019](https://arxiv.org/abs/1907.11692)
 - [Streamlit](https://streamlit.io)
